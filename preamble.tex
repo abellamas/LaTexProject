@@ -1,6 +1,6 @@
 \usepackage[spanish]{babel}
 
-% Fuente del proyecto (NO depende del sistema)
+% --- Fuente local dentro del proyecto (NO depende del sistema) ---
 \usepackage{fontspec}
 \setmainfont[
   Path = fonts/,
@@ -10,9 +10,21 @@
   BoldItalicFont = Lato-BoldItalic.ttf
 ]{Lato}
 
-% Paquetes típicos
+% --- Paquetes básicos ---
 \usepackage{amsmath, amssymb}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{geometry}
-\geometry{margin=2.5cm}
+
+% --- Márgenes tipo libro (A4, doble faz) ---
+\geometry{
+  a4paper,
+  inner=3.0cm,
+  outer=2.2cm,
+  top=2.5cm,
+  bottom=2.5cm
+}
+
+% Opcional: mejor espaciado entre párrafos (si no te gusta, borrá estas 2 líneas)
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}

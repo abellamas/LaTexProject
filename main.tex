@@ -1,20 +1,23 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[12pt,a4paper,twoside,openright]{book}
 
 \input{preamble}
 
-\title{Apunte}
-\author{Tu nombre}
-\date{\today}
-
 \begin{document}
-\input{cover.tex}
+
+% --- Carátula ---
+\input{cover}
+
+% --- Parte inicial (sin numeración normal) ---
+\frontmatter
 \tableofcontents
-\setcounter{page}{1}
 
+% --- Contenido (arranca en página 1) ---
+\mainmatter
 
-\newpage
+\chapter{Introducción}
+\input{sections/01-intro}
 
-\input{sections/01-intro.tex}
-\input{sections/02-chapter1.tex}
+\chapter{Teoría}
+\input{sections/02-teoria}
 
 \end{document}
