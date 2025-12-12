@@ -1,19 +1,44 @@
+
 \thispagestyle{empty}
 
-\vspace*{3cm}
+% Portada estilo libro (A4)
+\begin{titlepage}
+\centering
 
-\begin{center}
-    {\Large \textbf{Universidad / Institución}} \\[1.2cm]
+\vspace*{2.5cm}
 
-    {\large Carrera / Materia} \\[2.5cm]
+% Autor arriba chico (opcional)
+{\large Abel Lamas\par}
+\vspace{1.2cm}
 
-    {\LARGE \textbf{Título del Apunte}} \\[0.8cm]
-    {\Large Subtítulo (opcional)} \\[3cm]
+% Título grande
+{\Huge\bfseries TÍTULO DEL APUNTE\par}
+\vspace{0.4cm}
 
-    {\large Autor: Abel Lamas} \\[0.5cm]
-    {\large Docente: Nombre del docente} \\[2cm]
+% Subtítulo
+{\Large\itshape Subtítulo / Tema (opcional)\par}
+\vspace{1.8cm}
 
-    {\large \today}
-\end{center}
+% Línea editorial + info
+\begin{minipage}{0.82\textwidth}
+\hrule height 0.8pt
+\vspace{0.6cm}
 
-\newpage
+{\large
+\textbf{Universidad / Institución} \par
+Carrera / Materia \par
+Cátedra / Comisión (opcional) \par
+Docente: Nombre del docente \par
+}
+
+\vspace{0.6cm}
+\hrule height 0.8pt
+\end{minipage}
+
+\vfill
+
+% Footer editorial
+{\large Buenos Aires, Argentina\par}
+{\large \today\par}
+
+\end{titlepage}
