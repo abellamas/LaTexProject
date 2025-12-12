@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.12.12)  12 DEC 2025 05:10
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.12.12)  12 DEC 2025 05:20
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/abell/Desktop/UNTREF/LaTexProject/main
@@ -518,8 +518,58 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen174
 \Gm@dimlist=\toks25
 
-(C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)))
+(C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)) (C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
+\f@nch@headwidth=\skip55
+\f@nch@offset@elh=\skip56
+\f@nch@offset@erh=\skip57
+\f@nch@offset@olh=\skip58
+\f@nch@offset@orh=\skip59
+\f@nch@offset@elf=\skip60
+\f@nch@offset@erf=\skip61
+\f@nch@offset@olf=\skip62
+\f@nch@offset@orf=\skip63
+\f@nch@height=\skip64
+\f@nch@footalignment=\skip65
+\f@nch@widthL=\skip66
+\f@nch@widthC=\skip67
+\f@nch@widthR=\skip68
+\@temptokenb=\toks26
+) (C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip69
+\aftertitleunit=\skip70
+\ttl@plus=\dimen175
+\ttl@minus=\dimen176
+\ttl@toksa=\toks27
+\titlewidth=\dimen177
+\titlewidthlast=\dimen178
+\titlewidthfirst=\dimen179
+) (C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen180
+\captionmargin=\dimen181
+\caption@leftmargin=\dimen182
+\caption@rightmargin=\dimen183
+\caption@width=\dimen184
+\caption@indent=\dimen185
+\caption@parindent=\dimen186
+\caption@hangindent=\dimen187
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count323
+\c@continuedfloat=\count324
+Package caption Info: hyperref package is loaded.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 101.
+)
 No file main.aux.
 
 \openout1 = main.aux
@@ -608,17 +658,17 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
-\scratchdimen=\dimen175
-\scratchbox=\box55
-\nofMPsegments=\count324
-\nofMParguments=\count325
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count326
-\MPscratchDim=\dimen176
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count325
+\scratchdimen=\dimen188
+\scratchbox=\box56
+\nofMPsegments=\count326
+\nofMParguments=\count327
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count328
+\MPscratchDim=\dimen189
+\MPnumerator=\count329
+\makeMPintoPDFobject=\count330
+\everyMPtoPDFconversion=\toks29
 )
 (C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
 ase.sty
@@ -629,8 +679,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-Package hyperref Info: Link coloring OFF on input line 5.
+)) (C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/graphics/color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+(C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 149.
+(C:/Users/abell/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 5.
 \@outlinefile=\write3
 
 \openout3 = main.out
@@ -652,7 +708,7 @@ Package hyperref Info: Link coloring OFF on input line 5.
 * \oddsidemargin=13.08827pt
 * \evensidemargin=-9.67403pt
 * \topmargin=-33.0119pt
-* \headheight=12.0pt
+* \headheight=14.5pt
 * \headsep=19.8738pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -669,13 +725,11 @@ Package hyperref Info: Link coloring OFF on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 (./cover.tex [1
 
-{C:/Users/abell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
-LaTeX Font Info:    Font shape `TU/Lato(0)/m/sl' in size <12> not available
-(Font)              Font shape `TU/Lato(0)/m/it' tried instead on input line 11
-.
- [2
+{C:/Users/abell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) [2
 
 ]
 No file main.toc.
@@ -693,14 +747,22 @@ Package spanish Warning: Replacing `TU/Lato(0)/m/sc' by
 [1
 
 ]
-
-Package spanish Warning: Replacing `TU/Lato(0)/m/sc' by 
-(spanish)                faked small caps on input line 15.
-
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported on input line 15.
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 15.04204pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.04204pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.54204pt}.
+
+
+Package spanish Warning: Replacing `TU/Lato(0)/m/sc' by 
+(spanish)                faked small caps on input line 15.
+
 [2
 
 ]
@@ -748,21 +810,21 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  CFC300836AE301863B16480A4A6D4350;541.
+(rerunfilecheck)             After:  F9B2243DD8C236D716017826E752FCAB;686.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14410 strings out of 476081
+ 16486 strings out of 476081
  100000,794899 words of node,token memory allocated
- 528 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 1 glyph, 12 attribute, 53 glue_spec
+ 553 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 1 glyph, 12 attribute, 58 glue_spec
 , 8 attribute_list, 1 write nodes
-   avail lists: 2:191,3:70,4:4,5:54,6:21,7:748,8:11,9:96,10:4,11:81
- 36601 multiletter control sequences out of 65536+600000
- 54 fonts using 2942295 bytes
- 78i,7n,95p,306b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<./fonts/Lato-BoldItalic.ttf><//?/c:/users/abell/appdata/local/programs/miktex/f
-onts/opentype/public/lm/lmmono12-regular.otf><./fonts/Lato-Italic.ttf><./fonts/L
+   avail lists: 2:268,3:98,4:28,5:64,6:21,7:748,8:11,9:138,10:9,11:81
+ 38635 multiletter control sequences out of 65536+600000
+ 56 fonts using 3030695 bytes
+ 78i,12n,95p,306b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<./fonts/Lato-BoldItalic.ttf><./fonts/Lato-Italic.ttf><//?/c:/users/abell/appdat
+a/local/programs/miktex/fonts/opentype/public/lm/lmmono12-regular.otf><./fonts/L
 ato-Regular.ttf><./fonts/Lato-Bold.ttf><C:/Users/abell/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/abell/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/abell/AppData/L
@@ -773,9 +835,9 @@ sers/abell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ><C:/Users/abell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb><C:/Users/abell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmsy8.pfb>
-Output written on main.pdf (7 pages, 106944 bytes).
+Output written on main.pdf (7 pages, 106797 bytes).
 
-PDF statistics: 106 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 131072)
+PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
